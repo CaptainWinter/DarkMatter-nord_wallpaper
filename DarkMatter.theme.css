@@ -11,14 +11,15 @@
 /* Variables */
 :root {
     --font-primary: 'Whitney', sans-serif;
-	--font-display: var(--font-primary) !important;
+    --font-display: var(--font-primary) !important;
     --avatar-size: 32px;
     --background-image: url('https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/Minimal-Nord.png');
-    --home-image: url('https://gfycat.com/adorableclevercony');
-    /*--home-image: url('https://i.imgur.com/233d55Y.gif');*/
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #2e3440;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
-    --accent: #81a1c1;
-    --accent-alt: #5e81ac;
+    --accent: 129, 161, 193;
+    --accent-alt: 94, 129, 172;
+    --black: 46, 52, 64;
+    --white: 236, 239, 244;
 }
